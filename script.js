@@ -1,0 +1,1 @@
+alert('Quem tá lendo gay')
