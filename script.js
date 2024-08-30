@@ -1,1 +1,1 @@
-alert('test')
+alert('Quem tá lendo é gay')
